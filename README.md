@@ -14,7 +14,6 @@ Step 4: Plot the output sequence with x-label and y-label with suitable title.
 
 Step 5: Terminate the program.
 
-
 ## PROGRAM: 
 ```
 clc;
@@ -61,7 +60,6 @@ ylabel('Amplitude')
 title('Discrete cross correlated waveform')
 ```
 ## OUTPUT:
-
 ### INPUT SIGNAL-1:
 <img width="705" height="629" alt="image" src="https://github.com/user-attachments/assets/1140edb4-32da-4163-9864-e953529fa966" />
 
@@ -76,6 +74,3 @@ title('Discrete cross correlated waveform')
 
 ## RESULT:
 <img width="1600" height="802" alt="image" src="https://github.com/user-attachments/assets/6812539d-4bbf-4e9b-88fe-e673e5ac1be3" />
-
-
-
